@@ -17,7 +17,7 @@ Como utilizar esse negócio?
 
 2. Agora você irá realizar o download do projeto para sua máquina.
 
-3. É necessário executar os pacotes do projeto, para isso você pode utilizar o comando 'npm run dev' caso apresente algum erro lembre-se de executar o projeto dentro da pasta correto, para isso vamos utilizar o comando 'cd LabReceitas' (pode variar dependendo de onde realizou o download do projeto).
+3. É necessário executar os pacotes do projeto, para isso você pode utilizar o comando 'npm run dev' caso apresente algum erro lembre-se de executar o projeto dentro da pasta correto, para isso vamos utilizar o comando 'cd NOMEDAPASTADOARQUIVO'.
 
 4. Com o projeto em execuxão o próprio VsCode irá disponibilizar um caminho, algo como 'http://localhost:8080' ou próximo disso. Basta clicar e ser feliz!
 
